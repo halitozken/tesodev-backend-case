@@ -1,0 +1,12 @@
+{
+    "Customer": {
+        "Name":"Elon Musk",
+        "Email":"elonmusk@tesla.com"
+    },
+    "Address": {
+        "AddressLine":"1 Tesla Road Austin, TX 78725",
+        "City":"Texas",
+        "Country":"United States of America",
+        "CityCode":"78725"
+    }
+}
